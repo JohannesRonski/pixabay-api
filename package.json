@@ -1,12 +1,12 @@
 {
   "name": "pixabay-api",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "API wrapper for pixabay",
   "main": "dist/Index.js",
   "homepage": "https://github.com/dderevjanik/pixabay-api",
   "author": {
-    "name": "Daniel Derevjanik",
-    "email": "daniel.derevjanik@gmail.com"
+    "name": "Johannes Ronski",
+    "email": "johannes.ronski@gmail.com"
   },
   "repository": {
     "type": "git",

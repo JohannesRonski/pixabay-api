@@ -93,7 +93,7 @@ export interface VideoSizeType {
     /**
      * Url where video can be found
      */
-    url: number;
+    url: string;
     /**
      * Video width
      */
